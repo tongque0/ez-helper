@@ -1,5 +1,5 @@
 # 项目介绍
-ez-helper 是一款用于查找 ez 命令的智能程序。它调用了 OpenAI 的 API，能够方便地下载 ez。
+ez-helper 是一款用于查找 ez [https://docs.ezreal.cool/docs/intro/](https://docs.ezreal.cool/docs/intro/) 命令的智能程序。它调用了 OpenAI 的 API，能够方便地下载 ez。
 
 # 使用方法
 1. 运行 `ez-helper.exe`。
